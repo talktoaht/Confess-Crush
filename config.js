@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi cho ... <3",
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Gửi cho Mia",
+    introTitle: 'Made by talk_to_aht',
+    introDesc: '`I think I have to call God, cause I just find one of his angles here` ',
+    btnIntro: 'Reply 2021',
+    title: 'Hỏi nhỏ nè: Mia có quý tui hông? 😙',
+    desc: 'From FTU to ULIS ',
+    btnYes: 'Dạ có nhưng tui ngại nói lắm',
+    btnNo: 'Không, đồ đáng ghéc',
+    question: 'Trên thế giới hơn 7 tỉ người sao tui va phải Mia theo một cách thật... kì lạ?',
+    btnReply: 'Lời nhắn này đã đến nơi cần đến :>',
+    reply: 'Bởi vì Mia xứng đáng với điều tốt đẹp nhất, đó là tui :)))))',
+    mess: 'Phấn đấu, phấn đấu x 100, be young and rich :v',
+    messDesc: 'Hẹn Mia bao giờ hết dãn cách...',
+    btnAccept: 'Đi',
+    messLink: 'https://www.facebook.com/hoang.esther.58' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
